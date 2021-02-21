@@ -1,0 +1,1 @@
+#define UTS_RELEASE "3.10.108-G913-Nethunter-Kernel-v1-g042b5490ed9-dirty"
